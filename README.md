@@ -22,12 +22,12 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 ## 📷 Screenshots
 <p align="center">
   <img src="screenshots/createacc.png" alt="Create Account" width="250" style="margin-right: 20px;" />
-  <img src="screenshots/new.png" alt="New Transaction" width="250" style="margin-right: 20px;" />
   <img src="screenshots/balance.png" alt="Balance Summary" width="250" />
+  <img src="screenshots/new.png" alt="New Transaction" width="250" style="margin-right: 20px;" />
 </p>
 
 <p align="center">
-  <i>Create Account &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; New Transaction &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; Balance Summary</i>
+  <i>Create Account &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; Balance Summary &nbsp;&nbsp;&nbsp; |  &nbsp;&nbsp;&nbsp; New Transaction &nbsp;&nbsp;&nbsp; </i>
 </p>
 
 
