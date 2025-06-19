@@ -1,17 +1,50 @@
-# Welcome to your Expo app 👋
+# Welcome to your Expo app 👋 
+# 💰 React Native Wallet Tracker
 
+A cross-platform expense and income tracker built using **React Native**, **Expo**, and **Clerk Authentication**.
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+
+## ✨ Features
+
+- 🔐 User Authentication via Clerk
+- 💵 Track Income & Expenses
+- 📊 View Summary Balance
+- 🧾 Create/Delete Transactions
+- 📱 Responsive UI for Android & iOS
+
+## 🛠 Tech Stack
+
+- React Native (Expo)
+- Clerk (Authentication)
+- Node.js + Express (Backend API)
+- Render (Backend Hosting)
+
+## 📷 Screenshots
+
+### 🏠 Home Screen
+![Home Screen](screenshots/home.png)
+
+### ➕ New Transaction
+![New Transaction](screenshots/new-transaction.png)
+
+### 📈 Balance Summary
+![Balance Summary](screenshots/summary.png)
+
 
 ## Get started
 
-1. Install dependencies
+1. Clone the repo
+   ```bash
+   git clone https://github.com/your-username/your-repo.git
+   cd your-repo
+   ```
 
+2 Install dependencies
    ```bash
    npm install
    ```
 
-2. Start the app
-
+3. Start the app
    ```bash
    npx expo start
    ```
@@ -34,6 +67,8 @@ npm run reset-project
 ```
 
 This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## 🔌 Backend API Setup
+Express backend is running and accessible at: https://rn-wallet-api-onq9.onrender.com
 
 ## Learn more
 
