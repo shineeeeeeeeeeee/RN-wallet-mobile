@@ -20,15 +20,16 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 - Render (Backend Hosting)
 
 ## 📷 Screenshots
+<p align="center">
+  <img src="screenshots/createacc.png" alt="Create Account" width="250" style="margin-right: 20px;" />
+  <img src="screenshots/new.png" alt="New Transaction" width="250" style="margin-right: 20px;" />
+  <img src="screenshots/balance.png" alt="Balance Summary" width="250" />
+</p>
 
-### 🏠 Home Screen
-<img src="screenshots/" alt="Home Screen" width="300" />
+<p align="center">
+  <i>Create Account &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; New Transaction &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; Balance Summary</i>
+</p>
 
-### ➕ New Transaction
-![New Transaction](screenshots/new-transaction.png)
-
-### 📈 Balance Summary
-![Balance Summary](screenshots/summary.png)
 
 
 ## Get started
