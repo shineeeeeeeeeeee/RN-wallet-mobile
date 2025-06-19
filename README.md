@@ -22,7 +22,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 ## 📷 Screenshots
 
 ### 🏠 Home Screen
-![Home Screen](screenshots/home.png)
+<img src="screenshots/" alt="Home Screen" width="300" />
 
 ### ➕ New Transaction
 ![New Transaction](screenshots/new-transaction.png)
